@@ -1,0 +1,4 @@
+session_tag,n_baseline_updates,mean_sigma_pinch,mean_sigma_grasp,mean_velocity,tracking_uptime_percent
+balldrop_2_4,7,0.0428,0.0268,0.01623,100
+fishhunt_2_4,2,0.0806,0.0353,0.02982,100
+stack_2_4,0,0.0381,0.0316,0.01606,100

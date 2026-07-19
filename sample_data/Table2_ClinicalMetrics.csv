@@ -1,0 +1,4 @@
+session_tag,clinicalPinchCount,clinicalGraspCount,mean_pinch_duration_sec,median_pinch_duration_sec,std_pinch_duration_sec,n_pinch_durations,mean_grasp_duration_sec,median_grasp_duration_sec,std_grasp_duration_sec,n_grasp_durations,peak_activation,activation_variance,tracking_uptime_percent
+balldrop_2_4,15,1,1.7041,1.879,1.532776815673654,10,0.597,0.597,,1,0.9983,0.09860426760972912,100
+fishhunt_2_4,13,1,0.5975833333333334,0.5025,0.548260631175511,12,0.069,0.069,,1,0.9962,0.048549726881451885,100
+stack_2_4,5,22,1.8180000000000003,1.234,2.274776802237969,5,0.9583333333333334,0.8009999999999999,0.7392045804543595,18,0.9997,0.00987940053740885,100

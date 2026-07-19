@@ -1,0 +1,4 @@
+session_tag,source_file,sessionId,games,duration_sec,sourceFPS,n_events,tracking_uptime_percent,trackingLostEvents,trackingRecoveredEvents,pinchCount,graspCount,rapidTransitions,completedGames,totalGames,successRateTotal_percent,execution_success_rate_percent,number_of_accepted_actions,number_of_rejected_actions
+balldrop_2_4,balldrop_2_4.json,S_3438ea34-a3f2-4e09-8e15-7aa0b931fbf0,BALLDROP,65.785,30,135,100,0,0,23,1,25,1,1,71,71,0,0
+fishhunt_2_4,fishhunt_2_4.json,S_3e63671e-b33b-4b1a-a55d-408b250ca9b8,FISHHUNT,65.582,30,78,100,0,0,14,1,21,1,1,100,100,0,0
+stack_2_4,stack_2_4.json,S_5135a5a9-d9fd-4d66-9621-6e7904e422d7,STACK,65.649,30,142,100,0,0,8,27,32,1,1,63,63,0,0

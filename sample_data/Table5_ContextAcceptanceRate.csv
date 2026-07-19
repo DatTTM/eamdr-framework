@@ -1,0 +1,4 @@
+session_tag,game,n_context_accepted,n_context_rejected,n_context_events_total,acceptance_rate_percent
+balldrop_2_4,BALLDROP,23,29,52,44.23
+fishhunt_2_4,FISHHUNT,15,28,43,34.88
+stack_2_4,STACK,27,41,68,39.71

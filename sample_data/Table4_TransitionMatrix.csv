@@ -1,0 +1,6 @@
+From,grasp,neutral,open,pinch,transition
+grasp,35,0,24,5,0
+neutral,0,0,2,0,1
+open,17,1,100,40,13
+pinch,4,0,40,51,1
+transition,8,0,7,0,3
