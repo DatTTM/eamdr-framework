@@ -1,0 +1,29 @@
+Input: /Users/minhloc/rehabreachdata_4
+JSON files found: 3
+Sessions successfully parsed: 3
+  - balldrop_2_4.json: tag=balldrop_2_4, events=135, duration=65.78s
+  - fishhunt_2_4.json: tag=fishhunt_2_4, events=78, duration=65.58s
+  - stack_2_4.json: tag=stack_2_4, events=142, duration=65.65s
+
+Tables written: Table1_SessionSummary.csv, Table2_ClinicalMetrics.csv, Table3_MotorIntentStatistics.csv, Table4_TransitionMatrix.csv, Table5_ContextAcceptanceRate.csv, Table6_Layer3Summary.csv
+
+Figure generation log:
+  Figure 3 written: Figure3_IntentSpace.png (N=355 events pooled across 3 session(s))
+  Figure 4. Elevated Raw Pinch Feature Correctly Registered as Non-Volitional
+(fishhunt_2_4, u_pinch=0.592, x_pinch=0.58 SD < threshold 1.20 SD) written: Figure4_ScenarioA_fishhunt_2_4.png
+  Figure 5. Low-Amplitude Pinch Effort Correctly Accepted in the Intent Gray Zone
+(balldrop_2_4, u_pinch=0.293, x_pinch=3.62 SD) written: Figure5_ScenarioB_balldrop_2_4.png
+  Figure 6 written: Figure6_Timeline_balldrop_2_4.png (N=135 events)
+  Figure 6 written: Figure6_Timeline_fishhunt_2_4.png (N=78 events)
+  Figure 6 written: Figure6_Timeline_stack_2_4.png (N=142 events)
+  Figure 7 skipped: networkx is not installed.
+  Figure 8 written: Figure8_Distributions.png
+  Figure 9 written: Figure9_Tracking.png (3 session(s))
+  Figure 10 written: Figure10_ActivationHeatmap.png (N=355)
+  Figure 11 (pinch) written: Figure11_ThresholdOverlay_balldrop_2_4_pinch.png
+  Figure 11 (grasp) written: Figure11_ThresholdOverlay_balldrop_2_4_grasp.png
+  Figure 11 (pinch) written: Figure11_ThresholdOverlay_fishhunt_2_4_pinch.png
+  Figure 11 (grasp) written: Figure11_ThresholdOverlay_fishhunt_2_4_grasp.png
+  Figure 11 (pinch) written: Figure11_ThresholdOverlay_stack_2_4_pinch.png
+  Figure 11 (grasp) written: Figure11_ThresholdOverlay_stack_2_4_grasp.png
+  Figure 12 written: Figure12_ClinicalDuration.png
