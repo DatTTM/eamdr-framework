@@ -1,4 +1,4 @@
-Input: /Users/minhloc/rehabreachdata_4
+Input: /Users/rehabreachdata
 JSON files found: 3
 Sessions successfully parsed: 3
   - balldrop_2_4.json: tag=balldrop_2_4, events=135, duration=65.78s
